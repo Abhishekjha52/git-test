@@ -1,3 +1,3 @@
 This is for the practice for second time.
+I am the change from feature 3 branch
 
-This is the change from master branch
